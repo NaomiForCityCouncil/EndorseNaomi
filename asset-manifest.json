@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/EndorseNaomi/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/EndorseNaomi/static/js/main.82062992.chunk.js",
+    "main.js.map": "/EndorseNaomi/static/js/main.82062992.chunk.js.map",
+    "runtime-main.js": "/EndorseNaomi/static/js/runtime-main.e0a8be57.js",
+    "runtime-main.js.map": "/EndorseNaomi/static/js/runtime-main.e0a8be57.js.map",
+    "static/js/2.4b892fa4.chunk.js": "/EndorseNaomi/static/js/2.4b892fa4.chunk.js",
+    "static/js/2.4b892fa4.chunk.js.map": "/EndorseNaomi/static/js/2.4b892fa4.chunk.js.map",
+    "index.html": "/EndorseNaomi/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/EndorseNaomi/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.4b892fa4.chunk.js.LICENSE.txt": "/EndorseNaomi/static/js/2.4b892fa4.chunk.js.LICENSE.txt",
+    "static/media/Naomi-logo.8d6c512e.svg": "/EndorseNaomi/static/media/Naomi-logo.8d6c512e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0a8be57.js",
+    "static/js/2.4b892fa4.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.82062992.chunk.js"
+  ]
+}
